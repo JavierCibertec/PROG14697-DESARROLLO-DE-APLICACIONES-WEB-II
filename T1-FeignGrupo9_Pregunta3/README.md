@@ -77,3 +77,5 @@ curl http://localhost:8081/api/swapi/tall-female
 - **`swapi.dev` caído o lento en la demo**: es una API externa inestable; respaldo: cambiar la `url` del `SwapiClient` a `https://swapi.info/api` o `https://www.swapi.tech/api`.
 - **Puerto 8081 ocupado**: cambiar el `port` en el `application.yml`.
 - **Maven no resuelve dependencias**: revisar internet/proxy y reintentar el reload de Maven.
+
+— Maria Huaman Pahuara
