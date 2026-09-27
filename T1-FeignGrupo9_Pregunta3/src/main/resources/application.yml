@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: Problema3SwapiGrupo9
+    name: T1-FeignGrupo9_Pregunta3
 
 feign:
   client:

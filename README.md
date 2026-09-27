@@ -25,17 +25,17 @@ Versiones exigidas: **Spring Boot 4.1.1 · Spring Cloud 2025.1.3 · Java 25** (y
 
 ## 2. Importar y correr
 
-`File → Open…` → carpeta `Problema3SwapiGrupo9` → `Trust Project`. Esperar a que termine
+`File → Open…` → carpeta `T1-FeignGrupo9_Pregunta3` → `Trust Project`. Esperar a que termine
 "Importing Maven project" (si no descarga dependencias: botón "Reload All Maven Projects").
 
-Correr `Problema3SwapiGrupo9Application.java` con el ▶ verde (recomendado, no requiere nada más).
+Correr `T1FeignGrupo9Pregunta3Application.java` con el ▶ verde (recomendado, no requiere nada más).
 
 ### Si estás en Windows
 
 Por consola (requiere Maven: descárgalo de [maven.apache.org](https://maven.apache.org/download.cgi), agrega su `bin` al PATH y verifica con `mvn -version` en una terminal nueva):
 
 ```powershell
-cd Problema3SwapiGrupo9
+cd T1-FeignGrupo9_Pregunta3
 mvn spring-boot:run
 ```
 
@@ -46,7 +46,7 @@ mvn spring-boot:run
 Por consola (requiere Maven: `sudo pacman -S maven` / `sudo apt install maven` / `brew install maven`; verifica con `mvn -version`):
 
 ```bash
-cd Problema3SwapiGrupo9
+cd T1-FeignGrupo9_Pregunta3
 mvn spring-boot:run
 ```
 

@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>com.cibertec</groupId>
-    <artifactId>Problema3SwapiGrupo9</artifactId>
+    <artifactId>T1-FeignGrupo9_Pregunta3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Problema3SwapiGrupo9</name>
+    <name>T1-FeignGrupo9_Pregunta3</name>
     <description>Grupo 9 - Pregunta 1 Problema 3 (SWAPI) - Evaluacion T1 Tipo D - Desarrollo de Aplicaciones Web II</description>
 
     <properties>
